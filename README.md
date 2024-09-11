@@ -10,6 +10,7 @@
   author   = {Li, Yanchi and Gong, Wenyin and Gu, Qiong},
   journal  = {IEEE Transactions on Evolutionary Computation},
   year     = {2024},
+  doi      = {10.1109/TEVC.2024.3459862},
 }
 ```
 
